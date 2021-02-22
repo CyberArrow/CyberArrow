@@ -21,9 +21,9 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-[![Php](https://img.shields.io/badge/-Php-000?&logo=php&logoColor=9cf)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![Php](https://img.shields.io/badge/-Php-000?&logo=php&logoColor=9cf)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
@@ -37,6 +37,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
