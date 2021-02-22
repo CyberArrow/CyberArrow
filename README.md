@@ -21,9 +21,9 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
-[![Php](https://img.shields.io/badge/-Php-000?&logo=php&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)]
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)]
+[![Php](https://img.shields.io/badge/-Php-000?&logo=php&logoColor=9cf)]
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
@@ -40,7 +40,6 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-              
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberarrow&show_icons=true&locale=en&layout=compact" alt="cyberarrow" />
