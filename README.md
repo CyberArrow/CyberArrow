@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beatriz</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h4 align="center">A passionate fullstack developer from Brazil</h4>
 
 - 🔭 I’m currently working on [Gran Cursos Questões](https://questoes.grancursosonline.com.br/)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bcantilho@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/beatriz cantilho" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="beatriz cantilho" height="30" width="40" />
@@ -23,12 +23,9 @@
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
+[![Php](https://img.shields.io/badge/-Php-000?&logo=php&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 
 ### Technologies
 
