@@ -33,12 +33,10 @@
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Vue](https://img.shields.io/badge/-Vuejs-000?&logo=Vuejs)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
 
